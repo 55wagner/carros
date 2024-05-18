@@ -1,3 +1,6 @@
 wagner
 lucas
 henrique
+ana
+maria
+luiz
